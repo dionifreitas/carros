@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/menu/nav_drawer_menu.xml",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/src/main/res/menu/nav_drawer_menu.xml"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/menu/menu_popup_video.xml",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/src/main/res/menu/menu_popup_video.xml"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/menu/menu_frag_carro.xml",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/src/main/res/menu/menu_frag_carro.xml"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/menu/menu_frag_carro_context.xml",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/src/main/res/menu/menu_frag_carro_context.xml"
+    }
+]

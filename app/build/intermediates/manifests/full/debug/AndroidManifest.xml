@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.livroandroid.carros"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:name="br.com.livroandroid.carros.CarrosApplication"
+        android:allowBackup="true"
+        android:backupAgent="br.com.livroandroid.carros.backup.ExemploBackupAgent"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="@string/API_KEY" />
+
+        <activity
+            android:name="br.com.livroandroid.carros.activity.MainActivity"
+            android:launchMode="singleTop"
+            android:theme="@style/AppTheme.NoActionBar.NavDrawer" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.livroandroid.carros.activity.CarroActivity"
+            android:parentActivityName="br.com.livroandroid.carros.activity.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.livroandroid.carros.activity.CarrosActivity"
+            android:parentActivityName="br.com.livroandroid.carros.activity.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.livroandroid.carros.activity.SiteLivroActivity"
+            android:parentActivityName="br.com.livroandroid.carros.activity.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.livroandroid.carros.activity.prefs.ConfiguracoesActivity"
+            android:label="Configurações" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.livroandroid.carros.activity.prefs.ConfiguracoesV11Activity"
+            android:label="Configurações"
+            android:parentActivityName="br.com.livroandroid.carros.activity.MainActivity"
+            android:theme="@style/AppTheme.Material" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity android:name="br.com.livroandroid.carros.activity.SplashActivity" />
+        <activity android:name="br.com.livroandroid.carros.activity.CarrosIntentActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="carros" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PICK" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="carros" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.backup.api_key"
+            android:value="AEdPqrEAAAAIs1GIXqvAiyxvQKOYUIPCZM3_krU1o0x_g8UFHw" />
+
+        <activity
+            android:name="br.com.livroandroid.carros.activity.VideoActivity"
+            android:parentActivityName="br.com.livroandroid.carros.activity.CarroActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.CarroActivity" />
+        </activity>
+        <activity
+            android:name="br.com.livroandroid.carros.activity.MapaActivity"
+            android:parentActivityName="br.com.livroandroid.carros.activity.CarroActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.CarroActivity" />
+        </activity>
+    </application>
+
+</manifest>
