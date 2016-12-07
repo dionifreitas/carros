@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/powered_by_google_light.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/res/drawable-mdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/drawer_shadow.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/br.com.livroandroid/android-utils/1.0.4/res/drawable-mdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/powered_by_google_dark.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/res/drawable-mdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_full_open_on_phone.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/drawable-mdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    }
+]

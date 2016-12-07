@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/raw/carros_esportivos.json",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/src/main/res/raw/carros_esportivos.json"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/raw/carros_classicos.json",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/src/main/res/raw/carros_classicos.json"
+    },
+    {
+        "merged": "/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/res/merged/debug/raw/carros_luxo.json",
+        "source": "/home/thiago/AndroidStudioProjects/Carros/app/src/main/res/raw/carros_luxo.json"
+    }
+]

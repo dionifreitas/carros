@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:2:1-117:12
+	package
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:11:5-98
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:11:22-95
+uses-feature#0x00020000
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:13:5-15:35
+MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:14:9-41
+	android:required
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:15:9-32
+application
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:17:5-115:19
+MERGED from [br.com.livroandroid:android-utils:1.0.4] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/br.com.livroandroid/android-utils/1.0.4/AndroidManifest.xml:9:5-12:44
+MERGED from [com.google.android.support:wearable:1.1.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:design:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:backupAgent
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:20:9-57
+	android:label
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:22:9-41
+	android:supportsRtl
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:23:9-35
+	android:allowBackup
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:18:9-42
+meta-data#com.google.android.gms.version
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:25:9-27:69
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:26:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:28:9-30:47
+	android:value
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:29:13-62
+activity#br.com.livroandroid.carros.activity.MainActivity
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:32:9-41:20
+	android:launchMode
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:34:13-43
+	android:theme
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:35:13-66
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:33:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:39:27-74
+activity#br.com.livroandroid.carros.activity.CarroActivity
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:42:9-48:20
+	android:parentActivityName
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:44:13-64
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:43:13-51
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:45:13-47:58
+	android:value
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:47:17-55
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:46:17-63
+activity#br.com.livroandroid.carros.activity.CarrosActivity
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:49:9-55:20
+	android:parentActivityName
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:51:13-64
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:50:13-52
+activity#br.com.livroandroid.carros.activity.SiteLivroActivity
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:56:9-62:20
+	android:parentActivityName
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:58:13-64
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:57:13-55
+activity#br.com.livroandroid.carros.activity.prefs.ConfiguracoesActivity
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:63:9-69:20
+	android:label
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:65:13-42
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:64:13-65
+activity#br.com.livroandroid.carros.activity.prefs.ConfiguracoesV11Activity
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:70:9-78:20
+	android:label
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:72:13-42
+	android:parentActivityName
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:73:13-64
+	android:theme
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:74:13-53
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:71:13-68
+activity#br.com.livroandroid.carros.activity.SplashActivity
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:79:9-61
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:79:19-58
+activity#br.com.livroandroid.carros.activity.CarrosIntentActivity
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:80:9-95:20
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:80:19-64
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:81:13-87:29
+action#android.intent.action.VIEW
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:82:17-69
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:82:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:84:27-73
+data
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:86:17-49
+	android:scheme
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:86:23-46
+intent-filter#android.intent.action.PICK+android.intent.category.DEFAULT
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:88:13-94:29
+action#android.intent.action.PICK
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:89:17-69
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:89:25-66
+meta-data#com.google.android.backup.api_key
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:97:9-99:82
+	android:value
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:99:13-79
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:98:13-61
+activity#br.com.livroandroid.carros.activity.VideoActivity
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:101:9-107:20
+	android:parentActivityName
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:103:13-65
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:102:13-51
+activity#br.com.livroandroid.carros.activity.MapaActivity
+ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:108:9-114:20
+	android:parentActivityName
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:110:13-65
+	android:name
+		ADDED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml:109:13-50
+uses-sdk
+INJECTED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [br.com.livroandroid:android-utils:1.0.4] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/br.com.livroandroid/android-utils/1.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:1.1.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-wearable:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thiago/AndroidStudioProjects/Carros/app/src/main/AndroidManifest.xml
