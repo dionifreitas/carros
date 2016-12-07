@@ -1,7 +1,0 @@
-#Tue Dec 06 22:46:41 BRST 2016
-base.0=/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f724ad2cdfc9d8216670a9747b8c5b489d01a337
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e7ceb8afb11ac635dfe9c90227649b33d356c294/classes.dex
-base.1=/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e7ceb8afb11ac635dfe9c90227649b33d356c294
-file.0=/home/thiago/AndroidStudioProjects/Carros/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f724ad2cdfc9d8216670a9747b8c5b489d01a337/classes.dex
