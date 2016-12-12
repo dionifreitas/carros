@@ -4,8 +4,18 @@ import android.content.Context;
 import android.os.Environment;
 import android.util.Log;
 
+
+import com.android.volley.toolbox.JsonArrayRequest;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.maps.android.PolyUtil;
+
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -168,5 +178,54 @@ public class CarroService {
         File file = FileUtils.getFile(context, fileName);
         IOUtils.writeString(file, json);
         Log.d(TAG, "2) Arquivo salvo: " + file);
+    }
+    public static List<LatLng> getLocalizacoes(String origem, String destino) throws JSONException, IOException {
+
+        StringBuilder urlString = new StringBuilder();
+        urlString.append("http://maps.googleapis.com/maps/api/directions/json");
+        urlString.append("?origin=");
+        urlString.append(origem);
+        urlString.append("&destination=");
+        urlString.append(destino);
+        urlString.append("&sensor=true&mode=driving");
+
+
+            URL url = new URL(urlString.toString());
+            HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+
+
+        connection.connect();
+
+        InputStream in = connection.getInputStream();
+
+            BufferedReader streamRead = new BufferedReader(new InputStreamReader(in));
+            StringBuilder stringBuilder = new StringBuilder();
+
+            String string;
+
+            while ((string = streamRead.readLine()) != null) {
+                stringBuilder.append(string);
+            }
+
+            connection.disconnect();
+            JSONObject ob = new JSONObject(stringBuilder.toString());
+
+            return getRota(ob);
+    }
+
+    private static List<LatLng> getRota(JSONObject ob) throws JSONException{
+        JSONArray steps = ob.getJSONArray("routes").getJSONObject(0).getJSONArray("legs").getJSONObject(0).getJSONArray("steps");
+        List<LatLng> line = new ArrayList<>();
+
+        for(int i = 0; i<steps.length();i++){
+            String polyline = steps.getJSONObject(i).getJSONObject("polyline").getString("points");
+
+            for(LatLng p : PolyUtil.decode(polyline)){
+                line.add(p);
+            }
+        }
+
+        return line;
+
     }
 }
